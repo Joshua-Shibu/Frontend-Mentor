@@ -4,6 +4,6 @@
 
 ### Links
 
-- Live Site URL: [live site URL](https://recipe-page-lemon-two.vercel.app/)
+- Live Site URL: [live site URL](https://social-profile-liart.vercel.app/)
 
 **Have fun building!** 🚀
