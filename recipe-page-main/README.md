@@ -2,6 +2,6 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://recipe-page-lemon-two.vercel.app/)
+- Live Site URL: [live site URL](https://recipe-page-lemon-two.vercel.app/)
 
 **Have fun building!** 🚀
